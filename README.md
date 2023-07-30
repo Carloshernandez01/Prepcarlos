@@ -1,2 +1,1 @@
-# Prepcarlos
-Este es un repositorio de prueba del modulo2 del Prepcourse de henry
+este proyecto es una prueba de como crear un repositorio y vlonarlos desde github a mi computadora.
